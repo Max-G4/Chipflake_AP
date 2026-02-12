@@ -18,6 +18,8 @@ The goal is the same as vanilla: get all five ingredients and make the schnitzel
 
 When getting another world's item, a message like the game's original ones will pop up with the Archipelago Logo.
 Shop items are not (yet) replaced.
+## Where is the APworld?
+The APworld is in [its own repository](https://github.com/Max-G4/Chipflake_APworld)
 
 # Usage
 To play, you need:
