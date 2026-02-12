@@ -26,5 +26,7 @@ To play, you need:
 - [The mod itself](https://github.com/Max-G4/Chipflake_AP/releases/tag/releases)
 
 To install BepInEx, just unzip the folder into the game's main directory.
+
 To install, just drag the unzipped Chipflake_AP folder into your Game\BepInEx\plugins folder.
+
 To connect to the server, there is a UI in the top left. Pause the game to show your cursor and to be able to type in the AP server and login details, then click on Connect.
