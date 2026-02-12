@@ -21,7 +21,7 @@
         <DebugSymbols>true</DebugSymbols>
         <DebugType>full</DebugType>
         <Optimize>false</Optimize>
-        <OutputPath>C:\\Users\Max\Documents\SCÜMod\BepInEx\debug\$(AssemblyName)</OutputPath>
+        <OutputPath>$(GameDir)\BepInEx\plugins\$(AssemblyName)</OutputPath>
         <DefineConstants>DEBUG;TRACE</DefineConstants>
         <ErrorReport>prompt</ErrorReport>
     </PropertyGroup>

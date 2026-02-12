@@ -1,9 +1,0 @@
-C:\Program Files (x86)\Steam\steamapps\common\Super Chipflake Ü Quest for the uncooked Schnitzel\BepInEx\plugins\Chipflake_AP\Chipflake_AP.deps.json
-C:\Program Files (x86)\Steam\steamapps\common\Super Chipflake Ü Quest for the uncooked Schnitzel\BepInEx\plugins\Chipflake_AP\Chipflake_AP.dll
-C:\Users\Max\Documents\Chipflake_AP\Chipflake_AP\Chipflake_AP\obj\Release\ArchipelagoBepin6Template.Unity.IL2Cpp.csproj.AssemblyReference.cache
-C:\Users\Max\Documents\Chipflake_AP\Chipflake_AP\Chipflake_AP\obj\Release\ArchipelagoBepin6Template.Unity.IL2Cpp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Max\Documents\Chipflake_AP\Chipflake_AP\Chipflake_AP\obj\Release\ArchipelagoBepin6Template.Unity.IL2Cpp.csproj.CoreCompileInputs.cache
-C:\Users\Max\Documents\Chipflake_AP\Chipflake_AP\Chipflake_AP\obj\Release\ArchipelagoBepin6Template.Unity.IL2Cpp.csproj.CopyComplete
-C:\Users\Max\Documents\Chipflake_AP\Chipflake_AP\Chipflake_AP\obj\Release\Chipflake_AP.dll
-C:\Users\Max\Documents\Chipflake_AP\Chipflake_AP\Chipflake_AP\obj\Release\refint\Chipflake_AP.dll
-C:\Users\Max\Documents\Chipflake_AP\Chipflake_AP\Chipflake_AP\obj\Release\ref\Chipflake_AP.dll

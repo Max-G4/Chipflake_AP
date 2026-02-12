@@ -183,6 +183,9 @@ public class ItemShop
         __instance.RefreshShop();
     }
 
+    
+    // Testing logging and cheats
+    /*
     [HarmonyPatch(typeof(GameManager), "Awake")]
     [HarmonyPostfix]
     public static void GetInstance(GameManager __instance)
@@ -207,20 +210,18 @@ public class ItemShop
         }
         
         
-        /*
+        
         for(int i = 0; i < __instance.unlockedItems.Length; i++)
         {
             __instance.unlockedItems[i] = true;
         }
-        */
+        
 
         __instance._upgradeableAbilities["doubleJump"] = 50;
-        /*
-        __instance._upgradeableAbilities["speedShoes"] = 1;
-        __instance._upgradeableAbilities["sprintShoesUpgrade"] = 3;
-        */
+        
         __instance.moneySpend = 0;
         
     }
+    */
     
 }
