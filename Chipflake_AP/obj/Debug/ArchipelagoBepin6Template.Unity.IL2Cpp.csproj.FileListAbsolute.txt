@@ -1,0 +1,14 @@
+C:\Users\Max\Documents\Chipflake_AP\Chipflake_AP\Chipflake_AP\obj\Debug\ArchipelagoBepin6Template.Unity.IL2Cpp.csproj.AssemblyReference.cache
+C:\Users\Max\Documents\Chipflake_AP\Chipflake_AP\Chipflake_AP\obj\Debug\ArchipelagoBepin6Template.Unity.IL2Cpp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Documents\Chipflake_AP\Chipflake_AP\Chipflake_AP\obj\Debug\ArchipelagoBepin6Template.Unity.IL2Cpp.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Super Chipflake Ü Quest for the uncooked Schnitzel\BepInEx\plugins\Chipflake_AP\Chipflake_AP.deps.json
+C:\Program Files (x86)\Steam\steamapps\common\Super Chipflake Ü Quest for the uncooked Schnitzel\BepInEx\plugins\Chipflake_AP\Chipflake_AP.dll
+C:\Program Files (x86)\Steam\steamapps\common\Super Chipflake Ü Quest for the uncooked Schnitzel\BepInEx\plugins\Chipflake_AP\Chipflake_AP.pdb
+C:\Users\Max\Documents\Chipflake_AP\Chipflake_AP\Chipflake_AP\obj\Debug\Chipflake_AP.dll
+C:\Users\Max\Documents\Chipflake_AP\Chipflake_AP\Chipflake_AP\obj\Debug\refint\Chipflake_AP.dll
+C:\Users\Max\Documents\Chipflake_AP\Chipflake_AP\Chipflake_AP\obj\Debug\Chipflake_AP.pdb
+C:\Users\Max\Documents\Chipflake_AP\Chipflake_AP\Chipflake_AP\obj\Debug\ref\Chipflake_AP.dll
+C:\Users\Max\Documents\Chipflake_AP\Chipflake_AP\Chipflake_AP\obj\Debug\ArchipelagoBepin6Template.Unity.IL2Cpp.csproj.CopyComplete
+C:\Users\Max\Documents\SCÜMod\BepInEx\debug\Chipflake_AP\Chipflake_AP.deps.json
+C:\Users\Max\Documents\SCÜMod\BepInEx\debug\Chipflake_AP\Chipflake_AP.dll
+C:\Users\Max\Documents\SCÜMod\BepInEx\debug\Chipflake_AP\Chipflake_AP.pdb
